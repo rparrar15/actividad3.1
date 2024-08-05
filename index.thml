@@ -1,11 +1,4 @@
 <html>
-
-h1 {
-font-size: 36px;
-color: #000;
-font-family: 'Tahoma';
-}
-
 <h1> Esta es mi primera página con GitHub Pages </h1>
 <p>¡Gracias GitHub!</p>
 </html>
